@@ -1,7 +1,7 @@
 # SSM_SimpleExercise
-* 这个项目是尚硅谷的一个简单的SSM的CRUD的练习项目，业务流程容易，代码也简单，纯手打。
+* 这个项目是尚硅谷的一个简单的SSM的CRUD的练习项目，纯手打的，代码也简单，是基本的增删改查。
 
-## 所用技术点
+## 技术点
 * 基础框架-ssm（SpringMVC+Spring+MyBatis）
 * 数据库-MySQL
 * 前端框架-bootstrap快速搭建简洁美观的界面
